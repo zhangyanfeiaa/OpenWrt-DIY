@@ -57,4 +57,3 @@ cp -r temp/packages/admin/gotop packages/admin/gotop
 # Add minieap
 cp -r temp/packages/net/minieap packages/net/minieap
 rm -rf temp
-popd
